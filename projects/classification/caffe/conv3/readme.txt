@@ -1,0 +1,4 @@
+当前目录包含以下文件：
+1 一个3层的卷积神经小网络以及对应的init.caffemodel，可用于data目录下的分类任务
+2 与训练和可视化训练结果相关的所有脚本，即geneaccrefine,genelossrefine,show_loss.py,show_acc.py，大家可以根据自己需要修改
+3 与测试有关的所有脚本在test_model下面

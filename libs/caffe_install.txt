@@ -1,0 +1,2 @@
+从这里git clone并放置在当前目录
+git clone https://github.com/longpeng2008/Caffe_Long.git
